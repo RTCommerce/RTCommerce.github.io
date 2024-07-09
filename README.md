@@ -1,2 +1,2 @@
-## Welcome to RTCommerce
-Empowering Your E-Commerce Success with Technical Solutions. Our focus is improving your online store's performance, optimizing merchant workflows, and ensuring seamless customer experiences.  Discover tools tailored to elevate your business and save time and money.
+## Welcome to RTCommerce!
+Our focus is improving your online store's performance, optimizing merchant workflows, and ensuring seamless customer experiences.  Discover tools tailored to elevate your business and save time and money.
