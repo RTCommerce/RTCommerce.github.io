@@ -4,26 +4,13 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Welcome to RTCommerce, the ultimate solution for optimizing your e-commerce business and workflows. At RTCommerce, we understand the challenges of running a successful online store, and we're here to provide you with the tools and expertise to overcome them. Our mission is to empower businesses of all sizes with tools that drive growth, streamline e-commerce operations, and increase overall customer satisfaction.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+## Our Vision
+We envision a world where every business, regardless of size, has the opportunity to succeed in the digital marketplace. By providing innovative and accessible e-commerce solutions, we aim to empower entrepreneurs and companies to reach their full potential and achieve lasting success.
 
-## Features
+## Who We Are
+ Our team of experienced developers, designers, and strategists is dedicated to creating software and tooling that meets the unique needs of online retailers. With years of industry expertise, customers have found our tools essential for any e-commerce business.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+## Get Started Today
+Discover the power of our software tools and see how we can help you achieve your goals. [Contact us](mailto:go.rtcommerce@gmail.com) today to learn more or to schedule a demo.
