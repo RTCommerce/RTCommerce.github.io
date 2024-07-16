@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Magento 2 - Admin Catalog Grid Product URL
+title: "Magento 2: Enhance Your Admin Catalog Grid with Product URLs"
 categories: Magento
 published: true
 ---
-# Enhance Your Admin Catalog Grid with Product URLs
-
 At RTCommerce, we are dedicated to providing innovative solutions that streamline and enhance your e-commerce operations.  We are excited to announce the release of our latest Magento 2 module, designed to bring added functionality and efficiency to your online store: the Admin Catalog Grid Product URL Module.
 
 ## What is the Admin Catalog Grid Product URL Module?
