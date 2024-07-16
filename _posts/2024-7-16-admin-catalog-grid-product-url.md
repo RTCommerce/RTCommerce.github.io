@@ -18,8 +18,9 @@ Managing your product catalog in Adobe Commerce (Magento 2) just got easier and 
 
 ## How to Install and Use the Module
 
-![alt text](/images/admin-catalog-grid-product-url/icon_sq.png)
+[![RTCommerce admin catalog grid product URL](/images/admin-catalog-grid-product-url/icon_sq.png)](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-product-url.html){:target="_blank"}
+<!-- ![alt text](/images/admin-catalog-grid-product-url/icon_sq.png) -->
 
-Installing the RTCommerce Admin Catalog Grid Product URL Module is straightforward and hassle-free. [https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-product-url.html](Download the module from the Adobe Commerce Marketplace).
+Installing the RTCommerce Admin Catalog Grid Product URL Module is straightforward and hassle-free. [Download the module from the Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-product-url.html).
 
 Start Using: Once installed and configured, you will see the product URLs directly in your admin catalog grid, allowing you to access product pages with a single click.
