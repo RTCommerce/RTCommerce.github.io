@@ -27,4 +27,4 @@ Start Using: Once installed and configured, you will see the product URLs direct
 
 ## Why Choose RTCommerce?
 
-We prioritize innovation and customer satisfaction. Our team of experts continually develops solutions that address the real needs of e-commerce businesses. The Admin Catalog Grid Product URL Module is just one example of our commitment to enhancing your Magento 2 experience with practical and efficient tools.
+We prioritize innovation and customer satisfaction. Our team of experts continually develops solutions that address the real needs of e-commerce businesses. The Admin Catalog Grid Product URL Module is just one example of our commitment to enhancing your Adobe Commerce (Magento 2) experience with practical and efficient tools.
