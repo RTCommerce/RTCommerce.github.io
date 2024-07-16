@@ -9,7 +9,7 @@ Managing your product catalog in Adobe Commerce (Magento 2) just got easier and 
 
 ## Key Features and Benefits
 
-1. **Direct Product Page Access:** With the addition of product URLs in the admin catalog grid, you can navigate directly to any product page without the need to search for the product on the frontend. This feature significantly reduces the time spent on catalog management tasks.
+1. **Direct Product Page Access:** With the addition of product URLs in the admin catalog grid, you can navigate directly to any product page without the need to search for the product on the frontend. Products open in a new tab to prevent administrators from losing their place.
 2. **Handles Various Product Types:** Properly handles configurables, bundles, and grouped products
 3. **Enhanced Workflow Efficiency:** Streamline your administrative tasks by eliminating unnecessary steps. Quickly review, update, and manage your product listings with direct access from the catalog grid.
 4. **User-Friendly Interface:** Our module integrates seamlessly with the Adobe Commerce admin interface, providing a user-friendly and intuitive experience for store administrators.
