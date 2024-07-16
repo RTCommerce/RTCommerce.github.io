@@ -17,7 +17,8 @@ Managing your product catalog in Adobe Commerce (Magento 2) just got easier and 
 5. **SEO Benefits:** Improved catalog management efficiency means your products can be updated and optimized more regularly, contributing to better search engine rankings and increased visibility.
 
 ## Download & Install the Module
-[![RTCommerce admin catalog grid product URL](/images/admin-catalog-grid-product-url/icon_sq.png)](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-product-url.html){:target="_blank"}{:style="text-align:center"}
+{:refdef: style="text-align: center"}
+[![RTCommerce admin catalog grid product URL](/images/admin-catalog-grid-product-url/icon_sq.png)](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-product-url.html){:target="_blank"}
+{: refdef}
 
-
-Installing the Admin Catalog Grid Product URL module is straightforward and hassle-free. [Download the module from the Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-product-url.html).
+Download and install the module from the [Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-product-url.html).
