@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adobe Commerce: Enhance Your Admin Catalog Grid with Product URLs"
-categories: "Magento 2","Adobe Commerce"
+categories: ["Magento 2","Adobe Commerce"]
 published: true
 ---
 <!-- At RTCommerce, we are dedicated to providing innovative solutions that streamline and enhance your e-commerce operations.  We are excited to announce the release of our latest Adobe Commerce (Magento 2) module, designed to bring added functionality and efficiency to your online store: the Admin Catalog Grid Product URL Module. -->
