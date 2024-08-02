@@ -5,10 +5,11 @@ categories: ["Adobe Commerce","Magento 2"]
 published: true
 ---
 Are you looking to streamline your product management process and gain valuable insights into how your products are categorized? Look no further! RTCommerce is happy to introduce our latest module for Adobe Commerce: the Admin Catalog Grid Category Module. This powerful tool is designed to provide merchants with an essential overview of product categorization, making it easier than ever to manage your online store.
+![alt text](/images/admin-catalog-grid-category/admin-catalog-grid-category_screenshot.png)
 
 Effective product categorization is crucial for enhancing the customer experience and driving sales in your e-commerce store. Our Admin Catalog Grid Category Module extends the capabilities of the Magento 2 Admin Catalog/Product Grid by adding a new column that displays all categories a product is assigned to. This allows you to see at a glance how your products are being cross-marketed across different categories, enabling you to make informed decisions that boost your business.
 
-![alt text](/images/admin-catalog-grid-category/admin-catalog-grid-category_screenshot.png)
+
 
 ## Key Features and Benefits
 
