@@ -7,7 +7,7 @@ published: true
 Efficient order management is crucial for any e-commerce business. At RTCommerce, we understand the challenges merchants face when dealing with orders, shipments, and fulfillment. That’s why we’re excited to introduce our latest module: the Admin Orders Grid Tracking Module for Adobe Commerce (Magento 2). This essential tool optimizes how you manage tracking information, making it easier and more efficient than ever before.
 ![alt text](/images/admin-orders-grid-tracking/screenshot.png)
 
-## Why Admin Orders Grid Tracking is Essential for Merchants
+## Why Admin Orders Grid Tracking is Essential for Stores
 
 Managing order tracking can be a time-consuming task, especially when you have to click through multiple screens and manually enter tracking numbers on various carrier websites. Our Admin Orders Grid Tracking Module simplifies this process by grabbing all tracking numbers associated with an order and displaying them directly on the Orders grid. This module also provides direct tracking links to the most common carriers (DHL, FedEx, UPS, USPS), allowing you to access detailed shipment information with just a single click.
 
@@ -19,6 +19,7 @@ Managing order tracking can be a time-consuming task, especially when you have t
 4. **Enhanced Customer Service:** Quick access to tracking details allows your customer service team to respond to inquiries faster and more accurately, improving customer satisfaction and loyalty.
 5. **Streamlined Fulfillment Process:** Your fulfillment team can easily monitor and manage shipments, ensuring timely deliveries and reducing the risk of errors.
 6. **User-Friendly Interface:** Designed with the user in mind, the module offers an intuitive and efficient interface, making it easy for anyone on your team to use without extensive training.
+
 
 Configurable tracking URLs making it easy for merchants to adapt to carrier URL updates
 
