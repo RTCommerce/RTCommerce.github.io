@@ -5,9 +5,9 @@ categories: ["Adobe Commerce","Magento 2"]
 published: true
 ---
 Efficient order management is crucial for any e-commerce business. At RTCommerce, we understand the challenges merchants face when dealing with orders, shipments, and fulfillment. That’s why we’re excited to introduce our latest module: the Admin Orders Grid Tracking Module for Adobe Commerce (Magento 2). This essential tool optimizes how you manage tracking information, making it easier and more efficient than ever before.
-![alt text](/images/admin-catalog-grid-category/admin-catalog-grid-category_screenshot.png)
+![alt text](/images/admin-orders-grid-tracking/screenshot.png)
 
-## Why the Admin Orders Grid Tracking Module is Essential for Merchants
+## Why Admin Orders Grid Tracking is Essential for Merchants
 
 Managing order tracking can be a time-consuming task, especially when you have to click through multiple screens and manually enter tracking numbers on various carrier websites. Our Admin Orders Grid Tracking Module simplifies this process by grabbing all tracking numbers associated with an order and displaying them directly on the Orders grid. This module also provides direct tracking links to the most common carriers (DHL, FedEx, UPS, USPS), allowing you to access detailed shipment information with just a single click.
 
@@ -20,12 +20,11 @@ Managing order tracking can be a time-consuming task, especially when you have t
 5. **Streamlined Fulfillment Process:** Your fulfillment team can easily monitor and manage shipments, ensuring timely deliveries and reducing the risk of errors.
 6. **User-Friendly Interface:** Designed with the user in mind, the module offers an intuitive and efficient interface, making it easy for anyone on your team to use without extensive training.
 
-![alt text](/images/admin-orders-grid-tracking/screenshot.png)
+Configurable tracking URLs making it easy for merchants to adapt to carrier URL updates
 
-Configurable tracking URLs making it easy for merchants to adapt to carrier URL updates:
 ![alt text](/images/admin-orders-grid-tracking/screenshot2.png)
 
-## Who Can Benefit from the Admin Orders Grid Tracking Module?
+## Who Can Benefit from the Module?
 
 This module is a must-have for store owners, customer service teams, and fulfillment teams who want to optimize their order processing and enhance customer satisfaction. Whether you’re managing a small boutique or a large online marketplace, the Admin Orders Grid Tracking Module is designed to scale with your business and provide the efficiency you need to succeed.
 
