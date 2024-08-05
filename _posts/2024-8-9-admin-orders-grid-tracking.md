@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Adobe Commerce: Streamline Your Order Management with the Admin Orders Grid Tracking Module"
+title: "Adobe Commerce: Boost Your E-Commerce Efficiency with the Admin Catalog Grid Category Module"
 categories: ["Adobe Commerce","Magento 2"]
-published: true
+published: false
 ---
-Efficient order management is crucial for any e-commerce business. At RTCommerce, we understand the challenges merchants face when dealing with orders, shipments, and fulfillment. That’s why we’re excited to introduce our latest module: the Admin Orders Grid Tracking Module for Magento 2. This essential tool optimizes how you manage tracking information, making it easier and more efficient than ever before.
-![alt text](/images/admin-orders-grid-tracking/screenshot.png)
+Are you looking to streamline your product management process and gain valuable insights into how your products are categorized? Look no further! RTCommerce is happy to introduce our latest module for Adobe Commerce: Admin Catalog Grid Category. This powerful tool is designed to provide merchants with an essential overview of product categorization, making it easier than ever to manage your online store.
+![alt text](/images/admin-catalog-grid-category/admin-catalog-grid-category_screenshot.png)
 
 Effective product categorization is crucial for enhancing the customer experience and driving sales in your e-commerce store. Our Admin Catalog Grid Category Module extends the capabilities of the Adobe Commerce (Magento 2) Admin Catalog/Product Grid by adding a new column that displays all categories a product is assigned to. This allows you to see at a glance how your products are being cross-marketed across different categories, enabling you to make informed decisions that boost your business.
 
@@ -17,15 +17,9 @@ Effective product categorization is crucial for enhancing the customer experienc
 4. **Optimized Merchandising Strategy:** Make informed decisions to enhance your merchandising strategy. Quickly identify and address gaps in your product categorization to ensure your catalog is always optimized for maximum sales.
 5. **Scalability for Growing Businesses:** Whether you have a small catalog or a vast array of products, the Admin Catalog Grid Category Module scales with your business, providing the flexibility needed to manage your inventory effectively.
 
-![alt text](/images/admin-orders-grid-tracking/screenshot.png)
-
-Configurable tracking URLs making it easy for merchants to adapt to carrier URL updates:
-
-![alt text](/images/admin-orders-grid-tracking/screenshot2.png)
-
 ## Download and Installation
 {:refdef: style="text-align: center"}
-[![RTCommerce admin orders grid tracking](/images/admin-orders-grid-tracking/icon.png)](https://commercemarketplace.adobe.com/rtcommerce-admin-orders-grid-tracking.html){:target="_blank"}
+[![RTCommerce admin catalog grid category](/images/admin-catalog-grid-category/admin-catalog-grid-category_icon.png)](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-category.html){:target="_blank"}
 {: refdef}
 
-Download and install the module from the [Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/rtcommerce-admin-orders-grid-tracking.html){:target="_blank"}.
+Download and install the module from the [Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-category.html){:target="_blank"}.
