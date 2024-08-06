@@ -8,7 +8,7 @@ Are you looking to streamline your product management process and gain valuable 
 ![alt text](/images/admin-catalog-grid-category/screenshot.png)
 
 Category Tree Filter:
-![alt text](/images/admin-catalog-grid-category/screenshot_filter.png)
+![alt text](/images/admin-catalog-grid-category/screenshot_filter.png) {: width="250" }
 
 Effective product categorization is crucial for enhancing the customer experience and driving sales in your e-commerce store. Our Admin Catalog Grid Category Module extends the capabilities of the Adobe Commerce (Magento 2) Admin Catalog/Product Grid by adding a new column that displays all categories a product is assigned to. This allows you to see at a glance how your products are being cross-marketed across different categories, enabling you to make informed decisions that boost your business.
 
