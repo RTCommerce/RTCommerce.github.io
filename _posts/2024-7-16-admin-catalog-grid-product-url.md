@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adobe Commerce: Enhance Your Admin Catalog Grid with Product URLs"
+title: "Adobe Commerce: Enhance Admin Catalog Grid with Product URLs"
 categories: ["Adobe Commerce","Magento 2"]
 published: true
 ---

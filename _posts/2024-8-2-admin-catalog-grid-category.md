@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Adobe Commerce: Boost Your E-Commerce Efficiency with the Admin Catalog Grid Category Module"
+title: "Adobe Commerce: Boost Your Efficiency with Admin Catalog Grid Category & Filter"
 categories: ["Adobe Commerce","Magento 2"]
 published: false
 ---
 Are you looking to streamline your product management process and gain valuable insights into how your products are categorized? Look no further! RTCommerce is happy to introduce our latest module for Adobe Commerce: Admin Catalog Grid Category. This powerful tool is designed to provide merchants with an essential overview of product categorization, making it easier than ever to manage your online store.
-![alt text](/images/admin-catalog-grid-category/admin-catalog-grid-category_screenshot.png)
+![alt text](/images/admin-catalog-grid-category/screenshot.png)
+
+Category Tree Filter:
+![alt text](/images/admin-catalog-grid-category/screenshot_filter.png)
 
 Effective product categorization is crucial for enhancing the customer experience and driving sales in your e-commerce store. Our Admin Catalog Grid Category Module extends the capabilities of the Adobe Commerce (Magento 2) Admin Catalog/Product Grid by adding a new column that displays all categories a product is assigned to. This allows you to see at a glance how your products are being cross-marketed across different categories, enabling you to make informed decisions that boost your business.
 
@@ -19,7 +22,7 @@ Effective product categorization is crucial for enhancing the customer experienc
 
 ## Download and Installation
 {:refdef: style="text-align: center"}
-[![RTCommerce admin catalog grid category](/images/admin-catalog-grid-category/admin-catalog-grid-category_icon.png)](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-category.html){:target="_blank"}
+[![RTCommerce admin catalog grid category](/images/admin-catalog-grid-category/icon.png)](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-category.html){:target="_blank"}
 {: refdef}
 
 Download and install the module from the [Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-category.html){:target="_blank"}.
