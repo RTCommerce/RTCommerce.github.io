@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adobe Commerce: Boost Your Efficiency with Admin Catalog/Product Grid Category & Filter"
+title: "Adobe Commerce: Boost Your Efficiency with Admin Product Grid Category & Filter"
 categories: ["Adobe Commerce","Magento 2"]
 published: true
 ---
