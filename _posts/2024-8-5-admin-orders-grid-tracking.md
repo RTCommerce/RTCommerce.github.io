@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adobe Commerce: Admin Orders Grid Tracking is an Essential Module"
-categories: ["Adobe Commerce","Magento 2"]
+categories: ["Adobe Commerce","Magento 2","Orders"]
 published: true
 ---
 Efficient order management is crucial for any e-commerce business. At RTCommerce, we understand the challenges merchants face when dealing with orders, shipments, and fulfillment. That’s why we’re excited to introduce our latest module: the Admin Orders Grid Tracking Module for Adobe Commerce (Magento 2). This essential tool optimizes how you access tracking information, making it easier and more efficient than the default Adobe Commerce functionality.
