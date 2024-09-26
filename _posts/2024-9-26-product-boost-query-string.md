@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Magento 2: Boost Conversion and Sales with Product Boost Query String"
+title: "Magento 2 (Adobe Commerce/Magento Open Source): Boost Conversion and Sales with Product Boost Query String"
 categories: ["Adobe Commerce","Magento Open Source","Magento 2","Product Listing"]
 published: false
 ---
