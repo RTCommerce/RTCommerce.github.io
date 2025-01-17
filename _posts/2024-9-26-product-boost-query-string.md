@@ -4,7 +4,7 @@ title: "Magento 2 (Adobe Commerce/Magento Open Source): Boost Conversion and Sal
 categories: ["Adobe Commerce","Magento Open Source","Magento 2","Product Listing"]
 published: true
 ---
-Are you looking to make your key products stand out and drive more conversions during your marketing campaigns? Look no further! RTCommerce is excited to introduce the Product Boost Query String Module for Magento 2 (Adobe Commerce and Magento Open Source). This powerful tool helps you maximize visibility for products, making it easier for customers to find your best offers and must-have items.
+Are you looking to make your key products stand out and drive more conversions during your marketing campaigns? Look no further! We are excited to introduce the Product Boost Query String Module for Magento 2 (Adobe Commerce and Magento Open Source). This powerful tool helps you maximize visibility for products, making it easier for customers to find your best offers and must-have items.
 ![alt text](/images/product-boost-query-string/screenshot.png)
 
 ## Why the Product Boost Query String Module is Essential for Your Store

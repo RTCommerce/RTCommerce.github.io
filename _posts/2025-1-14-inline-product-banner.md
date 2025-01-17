@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Magento 2 (Adobe Commerce/Magento Open Source): Transform Your Category Pages with the Inline Product Banner"
+title: "Magento 2 (Adobe Commerce/Magento Open Source): Upgrade Your Category Pages with the Inline Product Banner"
 categories: ["Adobe Commerce","Magento Open Source","Magento 2","Product Listing"]
 published: true
 ---
-Are you ready to take your category pages to the next level? RTCommerce is thrilled to introduce the Inline Product Banner Module for Magento 2 (Adobe Commerce and Magento Open Source). This powerful and versatile module lets merchants and marketers seamlessly insert custom banners directly into the product grid, creating visually engaging content that drives customer engagement and boosts sales.
+Are you ready to take your category pages to the next level?  We are thrilled to introduce the Inline Product Banner Module for Magento 2 (Adobe Commerce and Magento Open Source). This powerful and versatile module lets merchants and marketers seamlessly insert custom banners directly into the product grid, creating visually engaging content that drives customer engagement and boosts sales.
 ![alt text](/images/inline-product-banner/screenshot.png)
 
 ## What is the Inline Product Banner Module?
