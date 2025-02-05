@@ -37,7 +37,7 @@ This module is perfect for a variety of use cases, including:
 
 ## Download and Installation
 {:refdef: style="text-align: center"}
-[![RTCommerce inline product banner](/images/inline-product-banner/icon.png)](https://commercemarketplace.adobe.com/rtcommerce-inline-product-banner.html){:target="_blank"}
+[![RTCommerce Inline Product Banner](/images/inline-product-banner/icon.png)](https://commercemarketplace.adobe.com/rtcommerce-inline-product-banner.html){:target="_blank"}
 {: refdef}
 
 Download and install the module from the [Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/rtcommerce-inline-product-banner.html){:target="_blank"}.

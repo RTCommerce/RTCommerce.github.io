@@ -18,7 +18,7 @@ Managing your product catalog in Adobe Commerce (Magento 2) just got easier and 
 
 ## Download and Installation
 {:refdef: style="text-align: center"}
-[![RTCommerce admin catalog grid product URL](/images/admin-catalog-grid-product-url/icon_sq.png)](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-product-url.html){:target="_blank"}
+[![RTCommerce Admin Catalog Grid Product URL](/images/admin-catalog-grid-product-url/icon_sq.png)](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-product-url.html){:target="_blank"}
 {: refdef}
 
 Download and install the module from the [Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-product-url.html){:target="_blank"}.

@@ -22,7 +22,7 @@ Effective product categorization is crucial for enhancing the customer experienc
 
 ## Download and Installation
 {:refdef: style="text-align: center"}
-[![RTCommerce admin catalog grid category](/images/admin-catalog-grid-category/icon.png)](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-category.html){:target="_blank"}
+[![RTCommerce Admin Catalog Grid Category](/images/admin-catalog-grid-category/icon.png)](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-category.html){:target="_blank"}
 {: refdef}
 
 Download and install the module from the [Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/rtcommerce-admin-catalog-grid-category.html){:target="_blank"}.

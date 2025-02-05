@@ -29,7 +29,7 @@ Configurable boost parameter makes it easy for merchants to adapt the module to 
 
 ## Download and Installation
 {:refdef: style="text-align: center"}
-[![RTCommerce product boost query string](/images/product-boost-query-string/icon.png)](https://commercemarketplace.adobe.com/rtcommerce-product-boost-querystring.html){:target="_blank"}
+[![RTCommerce Product Boost Query String](/images/product-boost-query-string/icon.png)](https://commercemarketplace.adobe.com/rtcommerce-product-boost-querystring.html){:target="_blank"}
 {: refdef}
 
 Download and install the module from the [Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/rtcommerce-product-boost-querystring.html){:target="_blank"}.

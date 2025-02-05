@@ -31,7 +31,7 @@ This module is a must-have for store owners, customer service teams, and fulfill
 
 ## Download and Installation
 {:refdef: style="text-align: center"}
-[![RTCommerce admin orders grid tracking](/images/admin-orders-grid-tracking/icon.png)](https://commercemarketplace.adobe.com/rtcommerce-admin-orders-grid-tracking.html){:target="_blank"}
+[![RTCommerce Admin Orders Grid Tracking](/images/admin-orders-grid-tracking/icon.png)](https://commercemarketplace.adobe.com/rtcommerce-admin-orders-grid-tracking.html){:target="_blank"}
 {: refdef}
 
 Download and install the module from the [Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/rtcommerce-admin-orders-grid-tracking.html){:target="_blank"}.
