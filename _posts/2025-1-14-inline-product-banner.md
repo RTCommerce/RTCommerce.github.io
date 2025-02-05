@@ -21,7 +21,7 @@ In today’s competitive e-commerce landscape, standing out is more important th
 
 1. **Custom Block Support:** Insert any custom block into the product grid, whether it’s an image, promotional banner, text, or even rich media.
 2. **Precise Positioning:** Control exactly where your custom content appears in the product grid by specifying its position.
-![alt text](/images/inline-product-banner/screenshot-admin.png)
+![alt text](/images/inline-product-banner/screenshot_admin.png)
 3. **Admin-Friendly Management:** Easily create, edit, and manage banners directly from the Magento admin panel—no technical expertise required.
 4. **Flexible Placement:** Add inline banners to any category or product listing page, allowing for maximum customization and relevance.
 5. **Boost Customer Engagement:** Use banners to highlight special offers, new arrivals, or seasonal promotions, drawing customers’ attention to key products and messages.
